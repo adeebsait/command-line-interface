@@ -1,0 +1,32 @@
+.terminal{
+    -fx-background-color: black;
+}
+
+.line{
+   -fx-background-color: black;
+}
+.directory {
+    -fx-text-fill: #00bdd6;
+    -fx-font-weight: 800;
+}
+
+.command{
+    -fx-text-fill: white;
+    -fx-font-weight: 300;
+}
+
+.name{
+    -fx-text-fill: #32d600;
+    -fx-font-weight: 800;
+}
+
+.input{
+     -fx-background-color: black;
+     -fx-text-fill: white;
+     -fx-font-weight: 300;
+}
+
+.results{
+     -fx-text-fill: white;
+     -fx-font-weight: 300;
+}

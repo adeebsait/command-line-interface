@@ -1,0 +1,12 @@
+/home/ntu-user/Music/Terminal/src/main/java/terminal/controller/Controller.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/process/CMDProcess.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/model/LineData.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/server/httpServer.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/controller/LineController.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/model/Model.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/Terminal.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/users/UserManager.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/file_manager/File.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/controller/TerminalController.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/file_manager/FileManager.java
+/home/ntu-user/Music/Terminal/src/main/java/terminal/users/User.java
